@@ -1,0 +1,8 @@
+﻿TL-Engine2017.lib(CTextureManagerDX.obj) : error LNK2001: unresolved external symbol _D3DXGetImageInfoFromFileA@8
+TL-Engine2017.lib(CTextureManagerDX.obj) : error LNK2001: unresolved external symbol _D3DXCreateSprite@8
+TL-Engine2017.lib(CFontDX.obj) : error LNK2001: unresolved external symbol _D3DXCreateFontA@48
+TL-Engine2017.lib(CTextureSurfaceDX.obj) : error LNK2001: unresolved external symbol _D3DXLoadSurfaceFromFileA@32
+TL-Engine2017.lib(CTextureSurfaceDX.obj) : error LNK2001: unresolved external symbol _D3DXCheckTextureRequirements@28
+TL-Engine2017.lib(CImportXFile.obj) : error LNK2001: unresolved external symbol _D3DXFileCreate@4
+TL-Engine2017.lib(CGenericProcessDX.obj) : error LNK2001: unresolved external symbol _D3DXCompileShaderFromFileA@36
+D:\Game Engineering\CO4302 Assignment\CO4302 Assignment.exe : fatal error LNK1120: 7 unresolved externals

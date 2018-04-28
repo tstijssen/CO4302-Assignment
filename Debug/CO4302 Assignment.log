@@ -1,0 +1,9 @@
+﻿  CO4302 Assignment.cpp
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(158): warning C4018: '<': signed/unsigned mismatch
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(202): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(314): warning C4018: '<': signed/unsigned mismatch
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(354): warning C4018: '<': signed/unsigned mismatch
+d:\game engineering\co4302 assignment\co4302 assignment.cpp(447): warning C4018: '<': signed/unsigned mismatch
+  CO4302 Assignment.vcxproj -> D:\Game Engineering\CO4302 Assignment\\CO4302 AssignmentDebug.exe
+  Copying DLLs & shaders...
